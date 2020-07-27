@@ -46,7 +46,6 @@ Linux                    11 mins             ███████████�
 <!--END_SECTION:waka-->
 
 ```html
-<!DOCTYPE html>
 <html>
 <head>
   <style>
