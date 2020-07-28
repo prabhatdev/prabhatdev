@@ -12,8 +12,6 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Install xmllint
-        run: sudo apt-get install chromium-chromedriver
       - uses: prabhatdev/waka-readme-stats@Alpha
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
