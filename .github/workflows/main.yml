@@ -4,9 +4,9 @@ on:
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
-#   push:
-#     branches: 
-#       - master
+  push:
+    branches: 
+      - master
 
 
 jobs:
@@ -14,7 +14,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: prabhatdev/waka-readme-stats@Alpha
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
