@@ -4,9 +4,9 @@ on:
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
-  push:
-    branches: 
-      - master
+#   push:
+#     branches: 
+#       - master
 
 
 jobs:
