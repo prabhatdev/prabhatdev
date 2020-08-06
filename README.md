@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-383-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-349-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 313 Contributions in year 2020
+> 🏆 315 Contributions in year 2020
  > 
 > 📦 Used 0 Bytes in GitHub's Storage 
  > 
@@ -17,9 +17,9 @@
 
 ```text
 🌞 Morning    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
-🌆 Daytime    107 commits    ██████░░░░░░░░░░░░░░░░░░░   23.73% 
+🌆 Daytime    105 commits    █████░░░░░░░░░░░░░░░░░░░░   23.28% 
 🌃 Evening    92 commits     █████░░░░░░░░░░░░░░░░░░░░   20.4% 
-🌙 Night      197 commits    ███████████░░░░░░░░░░░░░░   43.68%
+🌙 Night      199 commits    ███████████░░░░░░░░░░░░░░   44.12%
 
 ```
 📅 **I'm Most Productive on Tuesdays** 
