@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-181-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-86-blue)
 
 **🐱 My GitHub Data** 
 
