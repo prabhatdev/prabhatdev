@@ -7,14 +7,14 @@
 
 > 🏆 326 Contributions in year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 Used 33.3 kB in GitHub's Storage 
  > 
 > 🚫 Not opted to Hire
  > 
 > 📜 12 Public Repositories 
  > 
-> 🔑 0 Owned Private Repository 
- > 
+> 🔑 15 Owned Private Repositories 
+
 **I mostly code in Dart** 
 
 ```text
