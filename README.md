@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20Lines%20of%20code-blue)
 
@@ -57,11 +57,11 @@ No Activity Tracked This Week
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.58% 
-Kotlin                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   23.26% 
-Java                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
+Dart                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Kotlin                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+Java                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82%
 
 ```
 
