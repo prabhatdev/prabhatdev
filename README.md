@@ -57,10 +57,11 @@ No Activity Tracked This Week
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     5 repos             ██████████████░░░░░░░░░░░   55.56% 
-TypeScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-Java                     1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Python                   1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+Dart                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Kotlin                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+Java                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82%
 
 ```
 
