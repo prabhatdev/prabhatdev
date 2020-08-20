@@ -5,16 +5,16 @@
 
 **🐱 My Github Data** 
 
-> 🏆 329 Contributions in the year 2020
+> 🏆 331 Contributions in the year 2020
  > 
-> 📦 0 Bytes Used in Github's Storage 
+> 📦 33.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public repositories
  > 
-> 🔑 0 Private repository 
- > 
+> 🔑 15 Private repositories 
+
 **I'm a Night 🦉** 
 
 ```text
@@ -47,6 +47,9 @@ Sunday       53 commits     ███░░░░░░░░░░░░░░�
 No Activity Tracked This Week
 
 🔥 Code Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
