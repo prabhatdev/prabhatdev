@@ -68,7 +68,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/prabhatdev/prabhatdev/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/prabhatdev/prabhatdev/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
