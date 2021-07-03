@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-142140%20lines%20of%20code-blue)
 
@@ -57,11 +57,11 @@ No Activity Tracked This Week
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     13 repos            ███████░░░░░░░░░░░░░░░░░░   27.66% 
-Kotlin                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28% 
-Java                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.38%
+Dart                     14 repos            ███████░░░░░░░░░░░░░░░░░░   29.17% 
+Kotlin                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83% 
+Java                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
 ```
 
@@ -71,6 +71,6 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prabhatdev/prabhatdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/07/2021
+ Last Updated on 03/07/2021
 <!--END_SECTION:waka-->
 
