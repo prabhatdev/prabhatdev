@@ -5,15 +5,15 @@
 
 **🐱 My Github Data** 
 
-> 🏆 6 Contributions in the Year 2021
+> 🏆 7 Contributions in the Year 2021
  > 
-> 📦 33.9 kB Used in Github's Storage 
+> 📦 34.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 17 Private Repositories  
+> 🔑 18 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -57,11 +57,11 @@ No Activity Tracked This Week
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     14 repos            ███████░░░░░░░░░░░░░░░░░░   29.17% 
-Kotlin                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83% 
-Java                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+Dart                     15 repos            ███████░░░░░░░░░░░░░░░░░░   30.61% 
+Kotlin                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41% 
+Java                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
 
 ```
 
@@ -71,6 +71,6 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prabhatdev/prabhatdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/09/2021
+ Last Updated on 12/09/2021
 <!--END_SECTION:waka-->
 
