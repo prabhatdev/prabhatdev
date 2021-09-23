@@ -3,11 +3,11 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-142140%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 7 Contributions in the Year 2021
  > 
-> 📦 34.0 kB Used in Github's Storage 
+> 📦 34.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,6 +71,6 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prabhatdev/prabhatdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
 
